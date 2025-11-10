@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useEffect, useRef, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';

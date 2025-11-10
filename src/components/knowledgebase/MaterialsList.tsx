@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useState, useContext } from 'react';
 import { DocumentIcon, TrashIcon } from '@heroicons/react/20/solid';
 import { Material } from '../../types';

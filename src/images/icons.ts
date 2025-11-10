@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 /// <reference types="vite-plugin-svgr/client" />
 
 import Logo from '../assets/logo.svg?react';

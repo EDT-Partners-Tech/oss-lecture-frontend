@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useState, useCallback, useEffect, useRef, useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
 import {

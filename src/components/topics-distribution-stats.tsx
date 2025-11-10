@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import { useState, useEffect, useCallback } from 'react';
 import { getTopicsDistribution } from '../services/api';
 import { TopicsDistribution } from '../types';

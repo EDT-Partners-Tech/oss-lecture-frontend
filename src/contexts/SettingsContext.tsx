@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useState, useEffect, useMemo } from 'react';
 import { useAuth } from '../authentication/useAuth';
 import { SettingsContext, Settings, defaultSettings } from './SettingsContextTypes';

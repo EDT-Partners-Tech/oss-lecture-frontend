@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import { useState } from 'react';
 import Layout from '../components/layout';
 import { Copy, Download } from '../images/icons';

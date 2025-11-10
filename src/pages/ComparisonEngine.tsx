@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import cardComparisonData from '../data/cardComparisonData';
 import CardContainer from '../components/card-container';
 import React from 'react';

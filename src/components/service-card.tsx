@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { FunctionComponent, SVGProps } from 'react';
 import { IconType } from 'react-icons';
 import { useNavigate } from 'react-router-dom';

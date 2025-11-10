@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 // Import commands.js using ES2015 syntax:
 import './commands';
 

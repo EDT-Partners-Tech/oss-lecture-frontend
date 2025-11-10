@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React from 'react';
 import { PencilSquareIcon } from '@heroicons/react/20/solid';
 import { useTranslation } from 'react-i18next';

@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import { createBrowserRouter, Navigate, RouterProvider } from 'react-router-dom';
 import 'react-toastify/dist/ReactToastify.css';
 import Login from './pages/Login';

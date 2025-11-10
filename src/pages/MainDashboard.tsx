@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useMemo } from 'react';
 import CardContainer from '../components/card-container';
 import Layout from '../components/layout';

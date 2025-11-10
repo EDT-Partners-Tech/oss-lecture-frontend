@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import { useState } from 'react';
 import { SelectableItem } from '../types';
 import { ColumnDefinition, SelectableItemsTable } from './selectable-items-table';

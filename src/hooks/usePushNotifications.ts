@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import { useState, useEffect, useCallback } from 'react';
 import type { Notification as NotificationType } from '../types';
 import { t } from 'i18next';

@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import axios from 'axios';
 import { showToast } from './toastService';
 import { getLocalStorageItem } from '../lib/localStorage';

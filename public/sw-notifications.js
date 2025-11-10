@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 // Service Worker to handle notifications with actions
 self.addEventListener('install', (event) => {
   console.log('Service Worker installed for notifications');

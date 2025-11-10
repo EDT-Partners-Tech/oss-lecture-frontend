@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useEffect, useState } from 'react';
 import { authService, thirdPartyIntegrationService } from '../services/api';
 import { setLocalStorageItem } from '../lib/localStorage';

@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useEffect, useState } from 'react';
 import useAuth from '../hooks/useAuth';
 import { AIModel, Service, UserData } from '../types';

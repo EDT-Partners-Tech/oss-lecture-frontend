@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import { PodcastDetailsItem } from '../types';
 
 const CACHE_KEY_PODCAST_HISTORY = 'podcastHistory';

@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 export const getLocalStorageItem = (key: string): string | null => {
   if (typeof window !== 'undefined') {
     return window.localStorage.getItem(key);

@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
 import translationEN from '../locales/en/translation.json';

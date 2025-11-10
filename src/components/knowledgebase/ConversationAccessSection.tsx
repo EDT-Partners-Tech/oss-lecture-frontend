@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React from 'react';
 import { getBackendUrl } from '../../services/client';
 import { useTranslation } from 'react-i18next';

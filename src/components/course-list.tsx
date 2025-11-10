@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useEffect, useMemo, useState, useCallback } from 'react';
 import { getCourses } from '../services/api';
 import { Link } from 'react-router-dom';

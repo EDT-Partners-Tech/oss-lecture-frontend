@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useState } from 'react';
 import { Upload, Delete } from '../images/icons';
 import { showToast } from '../services/toastService';

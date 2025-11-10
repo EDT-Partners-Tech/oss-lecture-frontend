@@ -1,3 +1,4 @@
+<!-- © [2025] EDT&Partners. Licensed under CC BY 4.0. -->
 # Lecture Frontend: A Comprehensive Course Management System
 
 This project is a React-based frontend application for a comprehensive course management system, enabling course creation, exam generation, and interactive learning experiences.

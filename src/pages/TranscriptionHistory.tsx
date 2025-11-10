@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import { useEffect, useState, useContext } from 'react';
 import { getTranscripts, deleteTranscript } from '../services/api';
 import { useNavigate, Link } from 'react-router-dom';

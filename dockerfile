@@ -1,3 +1,4 @@
+# © [2025] EDT&Partners. Licensed under CC BY 4.0.
 # Use Node Alpine as the base image
 FROM node:18-alpine
 

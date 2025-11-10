@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React from 'react';
 import ServiceCard from './service-card';
 import { ServiceUI } from '../types';

@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useState } from 'react';
 import { Material } from '../types';
 import { useTranslation } from 'react-i18next';

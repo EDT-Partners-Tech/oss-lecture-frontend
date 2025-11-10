@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useEffect, useState, useContext } from 'react';
 import Layout from '../components/layout';
 import { fetchRubrics, createEvaluation } from '../services/api';

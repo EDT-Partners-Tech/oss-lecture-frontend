@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import { Navigate, Outlet, useLocation } from 'react-router-dom';
 import useAuth from './hooks/useAuth';
 import Loading from './components/loading';

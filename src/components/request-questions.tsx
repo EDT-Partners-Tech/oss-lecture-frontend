@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { Question } from '../types';

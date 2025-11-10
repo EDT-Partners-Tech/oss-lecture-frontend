@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useEffect, useState, useMemo } from 'react';
 import { getModels } from '../services/api';
 import { AIModel, ModelCategory } from '../types';

@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useEffect, useState, useCallback, useContext } from 'react';
 import { getCourses, deleteCourse } from '../services/api';
 import { Link, useNavigate } from 'react-router-dom';

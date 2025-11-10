@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useState, useEffect, useCallback } from 'react';
 import Table from './table';
 import { getServiceTokens, createServiceToken, revokeServiceToken } from '../services/api';

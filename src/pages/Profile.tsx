@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useState, useEffect, useRef } from 'react';
 import Layout from '../components/layout';
 import { getUserData, updateUserData } from '../authentication/authService';

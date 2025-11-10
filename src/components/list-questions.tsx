@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useState, useEffect } from 'react';
 import { Question } from '../types';
 import QuestionCard from './question-card';

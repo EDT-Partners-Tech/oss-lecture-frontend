@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import { Amplify } from 'aws-amplify';
 import { events } from 'aws-amplify/data';
 import { handleAppSyncEvent } from './appsyncEvents';

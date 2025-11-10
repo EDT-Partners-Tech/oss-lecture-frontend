@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useState } from 'react';
 import { Ai, Check, Circle, Delete, Dots, Edit, Reload, Save } from '../images/icons';
 import { Question } from '../types';

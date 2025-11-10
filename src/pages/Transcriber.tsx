@@ -1,3 +1,4 @@
+// © [2025] EDT&Partners. Licensed under CC BY 4.0.
 import React, { useState, useRef } from 'react';
 import { transcribeMedia, getTranscriptionStatus, summarizeTranscript } from '../services/api';
 import Layout from '../components/layout';

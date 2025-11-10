@@ -1,3 +1,4 @@
+<!-- © [2025] EDT&Partners. Licensed under CC BY 4.0. -->
 # Notification System - Frontend
 
 This document describes the notification system implemented in the Lecture application frontend.
