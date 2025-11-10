@@ -1,0 +1,17 @@
+name: 'Targeted Deploy'
+on:
+  workflow_dispatch:
+    inputs:
+      Customer:
+        description: 'Select a customer'
+        required: true
+        type: string
+jobs:
+  call-build-process:
+    uses: EDT-Partners-Tech/reusable-workflows/.github/workflows/buildAndDeploy.yml@main
+    with:
+      Customer: ${{ inputs.Customer }}
+    secrets: inherit
+    permissions:
+      id-token: write
+      contents: read
