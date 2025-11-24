@@ -199,3 +199,8 @@ The `buildspec.yml` file defines the following infrastructure components:
 - Volume Mount: `/data/frontend:/app/frontend`
 
 The deployment process includes logging into ECR, building and pushing the Docker image, and updating the running container on the EC2 instance.
+
+### 📄 License Change (November 24, 2025)
+
+This project was originally released under the **CC BY 4.0** license.  
+As of **November 24, 2025**, all source code in this repository is licensed under the **Apache License 2.0**.
