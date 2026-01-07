@@ -82,7 +82,7 @@ To create a production build:
 npm run build
 ```
 
-The built files will be in the `dist/` directory.
+The built files will be in the `dist/` directory. 
 
 ### Configuration
 
@@ -181,24 +181,26 @@ The Lecture Frontend application follows a client-server architecture with React
                                      [AWS Cognito] [Knowledge Base] [Exam Generator]
 ```
 
-## Deployment
-
-The application is deployed using AWS CodeBuild and Docker. The `buildspec.yml` file defines the build and deployment process:
-
-1. The application is built and packaged into a Docker image.
-2. The image is pushed to Amazon ECR (Elastic Container Registry).
-3. The new image is deployed to an EC2 instance using AWS Systems Manager.
-
 ## Infrastructure
 
-The `buildspec.yml` file defines the following infrastructure components:
+Infrastructure resources are created using Terraform IaC code. You can find full details in the following repository:
+   - https://github.com/EDT-Partners-Tech/oss-lecture-infrastructure
 
-- ECR Repository: `444208416329.dkr.ecr.eu-central-1.amazonaws.com/edt-lecture-frontend`
-- EC2 Instance: `i-0a569c1a4a95752b5`
-- Docker Network: `my-network`
-- Volume Mount: `/data/frontend:/app/frontend`
+The main infrastructure components impacting the frontend are:
 
-The deployment process includes logging into ECR, building and pushing the Docker image, and updating the running container on the EC2 instance.
+- S3 bucket.
+- Cloudfront distribution. 
+- Route 53 domain and records. 
+
+
+## Deployment
+
+The application is deployed on a S3 bucket, and it is served thorugh a CloudFront distribution, therefore the process to deploy it is detailed below:
+
+1. Install the application as detailed on the Installation section.
+2. The built files will be in the `dist/` directory. 
+3. Copy the built files to the frontend bucket created on S3.
+
 
 ### 📄 License Change (November 24, 2025)
 
